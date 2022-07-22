@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.container > h5 {
+    font-weight: 200;
+}
+
+.navbar img {
+    padding-left: 20px;
+}
+
+.ubicacion > p,i {
+    display: inline-block;
+}
+
+.precios > h4,h6 {
+    display: inline-block;
+    align-items: flex-end;
+}
+
+.card-body > div > h6 {
+    color: #dc3545;
+}
+
+.h5 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 16px;
+}
